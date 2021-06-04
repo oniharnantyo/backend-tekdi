@@ -44,6 +44,9 @@ func main() {
 
 		akan ada banyak variable x dan y
 
+		sum : tambah
+		mul : kali
+
 		data :
 		{
 			x : 10, y = 5, operation = sum
